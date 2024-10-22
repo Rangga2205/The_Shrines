@@ -16,7 +16,7 @@ itch.io :
 # 📋 Project Info
 - Made using **Unity Editor 2022.3.47f1**
 - [Top Down Forest Tileset](https://pixivan.itch.io/top-down-forest-tileset)
-- 
+  
 | Part | Development Time |
 |------------------|------|
 | Tile Set | 1 Day|
