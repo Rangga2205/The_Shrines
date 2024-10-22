@@ -8,8 +8,6 @@ Features A horror system that adapts to the player's playing style. For example,
 # ▶️ Video Gameplay
 <img src="https://github.com/user-attachments/assets/12fc69cb-94d2-4029-96ed-7166b431c998" width="300" height="300">
 
-(https://github.com/user-attachments/assets/12fc69cb-94d2-4029-96ed-7166b431c998)
-
 # 🕹️Download Game
 itch.io : 
 
