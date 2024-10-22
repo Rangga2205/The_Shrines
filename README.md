@@ -16,8 +16,20 @@ itch.io :
 # 📋 Project Info
 - Made using Unity Editor 2022.3.47f1
 - [Top Down Forest Tileset](https://pixivan.itch.io/top-down-forest-tileset)
+- 
+| Part | Development Time |
+|------------------|------|
+| Tile Set | 1 Day|
+| Player and Enemy | 1 Day |
+| Mecanic | 3 Day |
+| Design | 1 Day |
+| UI | 2 Day |
 
 # 📜Scripts and Features
+- In this game, we create UI Design that suits the player.
+- Having stats on the player so that it can develop the player's character in the game.
+- Light and shadow Saturation Modifier.
+
 | Script                | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
 | `UImanager.cs` | Updates a health bar and health text UI elements and maximum health. |
@@ -26,9 +38,7 @@ itch.io :
 | `HealthManager.cs` | Manages Health player.              |
 | `etc` |                                                                             |
 
-# 📂Files description
-
-🕹️Game controls
+# 🕹️Game controls
 | Script | Description |
 |---------|------------------|
 | W,A,S,D | Standard Movement|
@@ -36,6 +46,8 @@ itch.io :
 
 # 🔥How to open up the project on Unity Editor
 This game was developed using Unity Editor 2022.3.47f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems.
+
+
 
 
 
