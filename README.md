@@ -34,7 +34,7 @@ itch.io :
 | W,A,S,D | Standard Movement|
 | T | Character Slash |
 
-🔥How to open up the project on Unity Editor
+#🔥How to open up the project on Unity Editor
 This game was developed using Unity Editor 2022.3.47f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems.
 
 
