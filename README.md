@@ -18,6 +18,16 @@ itch.io :
 - [Top Down Forest Tileset](https://pixivan.itch.io/top-down-forest-tileset)
 
 # 📜Scripts and Features
+
+| Script                | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| `UImanager.cs` | Updates a health bar and health text UI elements and maximum health. |
+| `Skeleton.cs` | controls an enemy, follows the player within a certain range, returns to its original position. |
+| `PlayerStats.cs` | manages player statistics, including level, current experience, and level display in the UI. |
+| `HealthManager.cs` | Manages Health player.              |
+| `etc` |                                                                             |
+
+
 - Level Up character (Max 100)
 - Character Slash (T) and Bar health 
 - Character Hurt and Enemy hurt
