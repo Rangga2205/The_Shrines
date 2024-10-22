@@ -6,7 +6,8 @@ This game is set in a forest, complete with a path that will lead to the next te
 Features A horror system that adapts to the player's playing style. For example, if the player is too comfortable with a certain strategy, the enemy or environment will change to increase tension and challenge the player in a new way.
 
 # ▶️ Video Gameplay
-<img src="https://github.com/user-attachments/assets/12fc69cb-94d2-4029-96ed-7166b431c998" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/12fc69cb-94d2-4029-96ed-7166b431c998" width="350" height="200">
+View Full Gameplay :
 
 # 🕹️Download Game
 itch.io : 
