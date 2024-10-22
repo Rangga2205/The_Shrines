@@ -46,7 +46,9 @@ itch.io :
 
 # 🔥How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2022.3.47f1**, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems.
+
 <img src="https://github.com/user-attachments/assets/8b9e7a36-20eb-4d00-8df9-4bfb4601c5f6" width="350" height="200">
+
 You are required to download some assets from the Unity Asset Store to operate this game properly. The assets that need to be downloaded are as follows:
 
 **Download Here:** 
