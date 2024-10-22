@@ -1,4 +1,4 @@
-# 🔴 About
+## 🔴 About
 ![Youtube Thumbnail Tantangan Game Kreatif Horror Merah dan Kuning](https://github.com/user-attachments/assets/e7b146a2-bcaa-45f5-805c-74c8a424c452)
 
 
@@ -8,15 +8,15 @@ This game is set in a forest, complete with a path that will lead to the next te
 
 Features A horror system that adapts to the player's playing style. For example, if the player is too comfortable with a certain strategy, the enemy or environment will change to increase tension and challenge the player in a new way.
 
-# ▶️ Video Gameplay
+## ▶️ Video Gameplay
 <img src="https://github.com/user-attachments/assets/12fc69cb-94d2-4029-96ed-7166b431c998" width="350" height="200">
 
 View Full Gameplay : https://youtu.be/zc5812mj4tE
 
-# 🕹️Download Game
+## 🕹️Download Game
 itch.io : Waiting Update
 
-# 📋 Project Info
+## 📋 Project Info
 - Made using **Unity Editor 2022.3.47f1**
 - [Top Down Forest Tileset](https://pixivan.itch.io/top-down-forest-tileset)
   
@@ -28,7 +28,7 @@ itch.io : Waiting Update
 | Design | 1 Day |
 | UI | 2 Day |
 
-# 📜Scripts and Features
+## 📜Scripts and Features
 - In this game, we create UI Design that suits the player.
 - Having stats on the player so that it can develop the player's character in the game.
 - Light and shadow Saturation Modifier.
@@ -41,13 +41,26 @@ itch.io : Waiting Update
 | `HealthManager.cs` | Manages Health player.              |
 | `etc` |                                                                             |
 
-# 🕹️Game controls
+## 📂Files description
+
+```
+├── TopDown                      # In this Folder, containing all the Unity project files, to be opened by a Editor
+   ├── Assets                         #  In this Folder, it contains all our Script, assets, scenes, animation, prefabs
+        ├──asset
+              ├──TileSet                 # In this folder, there packages tile set 
+      ├── Scenes                     # In this folder, there are scenes. You can open these scenes to play the game via Unity
+      ├── ....
+   ├── ...
+      
+```
+
+## 🕹️Game controls
 | Script | Description |
 |---------|------------------|
 | W,A,S,D | Standard Movement|
 | T | Character Slash |
 
-# 🔥How to open up the project on Unity Editor
+## 🔥How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2022.3.47f1**, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems.
 
 <img src="https://github.com/user-attachments/assets/8b9e7a36-20eb-4d00-8df9-4bfb4601c5f6" width="350" height="200">
