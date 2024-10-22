@@ -28,7 +28,7 @@ itch.io : Waiting Update
 | Design | 1 Day |
 | UI | 2 Day |
 
-...bash
+$ tree
 ├── Project-Stir                      # In this Folder, containing all the Unity project files, to be opened by a Unity Editor
    ├── ...
    ├── Assets                         #  In this Folder, it contains all our code, assets, scenes, etcwas not automatically created by Unity
@@ -37,7 +37,7 @@ itch.io : Waiting Update
       ├── Scenes                     # In this folder, there are scenes. You can open these scenes to play the game via Unity
       ├── ....
    ├── ...
-...
+
 
 # 📜Scripts and Features
 - In this game, we create UI Design that suits the player.
