@@ -11,7 +11,7 @@ Features A horror system that adapts to the player's playing style. For example,
 View Full Gameplay : https://youtu.be/zc5812mj4tE
 
 # 🕹️Download Game
-itch.io : 
+itch.io : Waiting Update
 
 # 📋 Project Info
 - Made using **Unity Editor 2022.3.47f1**
