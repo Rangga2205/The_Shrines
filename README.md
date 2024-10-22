@@ -1,7 +1,6 @@
-## 🔴 About
 ![Youtube Thumbnail Tantangan Game Kreatif Horror Merah dan Kuning](https://github.com/user-attachments/assets/e7b146a2-bcaa-45f5-805c-74c8a424c452)
 
-
+## 🔴 About
 **TheMysteryShrines [Beta]** is a Top Down RPG game made with a **horror concept** to add a spooky sensation and strategy and tactical skills. Players must make strategic decisions about how their characters will fight and understanding **tactics** in battle or **management** becomes important. In this game, players or users are tasked with exploring the world, while leveling up by fighting existing enemies. The evaluation of this game is the loading time between levels and the loading time when opening the game for the first time. Has a test control response whether the character control feels responsive and easy to understand by the player.
 
 This game is set in a forest, complete with a path that will lead to the next temple. Improved user performance, characterized by shadow and lighting optimization, reduce the quality or amount of light, and use baked lighting techniques in areas that do not require dynamic lighting. TheMysteryShrines can be operated using an input device, keyboard.
@@ -18,7 +17,7 @@ itch.io : Waiting Update
 
 ## 📋 Project Info
 - Made using **Unity Editor 2022.3.47f1**
-- [Top Down Forest Tileset](https://pixivan.itch.io/top-down-forest-tileset)
+- [**Top Down Forest Tileset**](https://pixivan.itch.io/top-down-forest-tileset)
   
 | Part | Development Time |
 |------------------|------|
