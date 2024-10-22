@@ -18,7 +18,6 @@ itch.io :
 - [Top Down Forest Tileset](https://pixivan.itch.io/top-down-forest-tileset)
 
 # 📜Scripts and Features
-
 | Script                | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
 | `UImanager.cs` | Updates a health bar and health text UI elements and maximum health. |
@@ -27,9 +26,16 @@ itch.io :
 | `HealthManager.cs` | Manages Health player.              |
 | `etc` |                                                                             |
 
+# 📂Files description
 
-- Level Up character (Max 100)
-- Character Slash (T) and Bar health 
-- Character Hurt and Enemy hurt
-- Movement (W,A,S,D/Up,Down,Left,Right)
+🕹️Game controls
+| Script | Description |
+|---------|------------------|
+| W,A,S,D | Standard Movement|
+| T | Character Slash |
+
+🔥How to open up the project on Unity Editor
+This game was developed using Unity Editor 2022.3.47f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems.
+
+
 
