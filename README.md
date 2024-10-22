@@ -1,4 +1,4 @@
-![Youtube Thumbnail Tantangan Game Kreatif Horror Merah dan Kuning](https://github.com/user-attachments/assets/e7b146a2-bcaa-45f5-805c-74c8a424c452)
+![Movie_005 (2)](https://github.com/user-attachments/assets/08d8896a-b169-4ae1-b76a-18ce730c98c6)
 
 ## 🔴 About
 **TheMysteryShrines [Beta]** is a Top Down RPG game made with a **horror concept** to add a spooky sensation and strategy and tactical skills. Players must make strategic decisions about how their characters will fight and understanding **tactics** in battle or **management** becomes important. In this game, players or users are tasked with exploring the world, while leveling up by fighting existing enemies. The evaluation of this game is the loading time between levels and the loading time when opening the game for the first time. Has a test control response whether the character control feels responsive and easy to understand by the player.
