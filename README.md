@@ -21,11 +21,11 @@ itch.io : Waiting Update
   
 | Part | Development Time |
 |------------------|------|
-| Tile Set | 1 Day|
-| Player and Enemy | 1 Day |
-| Mecanic | 3 Day |
-| Design | 1 Day |
-| UI | 2 Day |
+| Tile Set |  30 Minutes |
+| Player and Enemy | 40 Minutes |
+| Mecanic | 720 Minutes |
+| Design | 120 Minutes |
+| UI | 160 Minutes |
 
 ## 📜Scripts and Features
 - In this game, we create UI Design that suits the player.
